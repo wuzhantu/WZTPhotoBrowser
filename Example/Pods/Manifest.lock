@@ -1,0 +1,16 @@
+PODS:
+  - WZTPhotoBrowser (0.1.0)
+
+DEPENDENCIES:
+  - WZTPhotoBrowser (from `../`)
+
+EXTERNAL SOURCES:
+  WZTPhotoBrowser:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZTPhotoBrowser: a4bc216cd5dd22c2df008202a7d6dc5d88b292b5
+
+PODFILE CHECKSUM: 5df29818e498b5ed069fe66de16a988dca36b500
+
+COCOAPODS: 1.11.2

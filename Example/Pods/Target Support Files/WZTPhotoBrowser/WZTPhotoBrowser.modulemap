@@ -1,0 +1,6 @@
+framework module WZTPhotoBrowser {
+  umbrella header "WZTPhotoBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}
